@@ -51,6 +51,7 @@ body{
   border: 1px solid var(--Black);
   border-radius: 15px;
   background-color: var(--White);
+  box-shadow: 10px 10px 0px 1px var(--Black);
 }
 .card-img{
   max-width: 100%;
